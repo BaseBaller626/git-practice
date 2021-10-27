@@ -1,5 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
-main branch edit
-conflict!!
+conflict branch edit
+>>>>>>> conflict
