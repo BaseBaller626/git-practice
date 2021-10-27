@@ -1,4 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
-no-fast-forward branch edit
+main branch edit
+conflict!!
